@@ -36,7 +36,7 @@
     "babel-loader": "^8.0.6",
     "babel-plugin-jsx-dom-expressions": "^0.11.2",
     "bulma": "^0.7.5",
-    "electron": "^5.0.8",
+    "electron": "^9.1.0",
     "eslint": "^6.1.0",
     "node-sass": "^4.12.0",
     "showdown": "^1.9.0",
